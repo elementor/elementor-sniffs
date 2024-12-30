@@ -16,7 +16,7 @@
         "Elementor"
     ],
     "minimum-stability": "stable",
-    "github_personal_access_token": "15cbce96ed59c99b26ff543b05c8a3b2d2e145e1", # test secret scan
+    "jenkins": "46PfafuKpOJRlr13NgBabVZwq8fmoR3GvECZ", # test secret scan
     "require": {
         "php": ">=5.6",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",

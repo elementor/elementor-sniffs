@@ -16,7 +16,7 @@
         "Elementor"
     ],
     "minimum-stability": "stable",
-    "api-token": "hF108HEvlfZhqV0RhVLqTIP27SPra8sIDfKz1gekWpflboijwpUDtXkZqKaveVfw", # test secret scan
+    "api-token": "15cbce96ed59c99b26ff543b05c8a3b2d2e145e1", # test secret scan
     "require": {
         "php": ">=5.6",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0",
